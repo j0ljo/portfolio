@@ -1,4 +1,5 @@
 import Card from './Card.jsx'
+import PortfolioCards from './Portfoliocards.jsx'
 
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
     <>
       <h1>Joel</h1>
       <Card />
-
+      <PortfolioCards />
       <p>Mechatronics Engineering Student | Embedded Software & Systems</p>
 
       <p>Building at the intersection of physical hardware and code. Focused on firmware, microcontrollers, and automation tools.</p>
