@@ -5,7 +5,7 @@ function Card() {
             <h2>Joel</h2>
             <p>Mechatronics Engineering Student | Embedded Software & Systems</p>
         </div>
-    )
+    );
 }
 
 export default Card
