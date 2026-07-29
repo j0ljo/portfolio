@@ -1,7 +1,12 @@
+import Card from './Card.jsx'
+
+
 function App() {
   return (
     <>
       <h1>Joel</h1>
+      <Card />
+
       <p>Mechatronics Engineering Student | Embedded Software & Systems</p>
 
       <p>Building at the intersection of physical hardware and code. Focused on firmware, microcontrollers, and automation tools.</p>
